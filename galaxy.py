@@ -1,3 +1,4 @@
+# ref: https://github.com/RapidsAtHKUST/VIC-DDPM
 from torch.utils.data import DataLoader, Dataset, random_split
 from torch.utils.data.distributed import DistributedSampler
 
