@@ -1,1 +1,2 @@
 experiment_lr=0.0005-epochs=120-shape=1.0-scale=0.1-ssim-0.01-l1-0.5.pt filter=lfs diff=lfs merge=lfs -text
+new_train-shape=1.0-scale=0.06.pt filter=lfs diff=lfs merge=lfs -text
