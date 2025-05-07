@@ -1,5 +1,5 @@
 # AI_CLEAN
 * The files in data are from https://github.com/RapidsAtHKUST/VIC-DDPM/tree/main/data.
 * The demonstration can be checked in "mydemo.ipynb".
-* If you want to rerun the "create_dataset_new.ipynb" file and the "new_train.ipynb" file, maybe you need to download the h5 dataset from https://github.com/wubenjamin/neural-interferometry/tree/main.
+* If you want to rerun the "create_dataset_new.ipynb" file and the "new_train.ipynb" file, maybe you need to download the h5 dataset from "https://github.com/wubenjamin/neural-interferometry/tree/main" or "https://pan.baidu.com/s/1VjEG03kRM4ZBs7desGSM9Q?pwd=ri84"
 * You may need to use lfs to download the pt file.
